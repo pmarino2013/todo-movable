@@ -1,8 +1,9 @@
-# React + Vite
+# Todo Movable
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación de lista de tareas sencilla, pero aplicando la librería react-movable para arrastrar y soltar elementos.
 
-Currently, two official plugins are available:
+### Tecnologías
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React js
+- Tailwindcss
+- react-movable
